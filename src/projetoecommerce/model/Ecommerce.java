@@ -41,7 +41,8 @@ public class Ecommerce {
 
     // Outros métodos relacionados ao e-commerce
     public void fazerLogin() {
-        System.out.println("Fazer Login\n");
+    	String nomeCompleto = "";
+		System.out.println("Olá, " + nomeCompleto + "! Você está logado. Boas compras!");
     }
 
     public void cadastrarUsuario() {
